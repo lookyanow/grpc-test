@@ -1,1 +1,1 @@
-# grpc-test
+Golang grpc service test
